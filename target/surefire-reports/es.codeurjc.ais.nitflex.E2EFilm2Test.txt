@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: es.codeurjc.ais.nitflex.E2EFilm2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.744 s <<< FAILURE! - in es.codeurjc.ais.nitflex.E2EFilm2Test
+createfilm  Time elapsed: 5.419 s  <<< ERROR!
+java.net.ConnectException: Connection refused: connect
+	at es.codeurjc.ais.nitflex.E2EFilm2Test.createfilm(E2EFilm2Test.java:26)
+

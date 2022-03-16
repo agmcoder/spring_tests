@@ -1,0 +1,9 @@
+es\codeurjc\ais\nitflex\utils\UrlUtils.class
+es\codeurjc\ais\nitflex\notification\NotificationService.class
+es\codeurjc\ais\nitflex\film\FilmService.class
+es\codeurjc\ais\nitflex\film\FilmRepository.class
+es\codeurjc\ais\nitflex\web\FilmWebController.class
+es\codeurjc\ais\nitflex\DatabaseInitializer.class
+es\codeurjc\ais\nitflex\film\Film.class
+es\codeurjc\ais\nitflex\Application.class
+es\codeurjc\ais\nitflex\rest\FilmRestController.class
